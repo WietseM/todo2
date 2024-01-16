@@ -8,3 +8,6 @@ class Todo2ApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
